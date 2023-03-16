@@ -1,0 +1,15 @@
+form{
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    margin-top: 20px;
+}
+input[type=submit]{
+    background-color: royalblue;
+}
+body{
+    background-image: url("images/back.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
